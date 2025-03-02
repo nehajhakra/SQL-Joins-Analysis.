@@ -20,3 +20,14 @@ This project demonstrates SQL JOIN operations on **Customer** and **Orders** tab
 2️⃣ Run the queries from `joins_queries.sql` to see JOIN operations in action.  
 
 
+
+
+
+
+
+
+
+
+
+
+
